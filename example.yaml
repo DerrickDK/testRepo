@@ -4,4 +4,3 @@ app1:
     db:
         user: eve
         password: c4r1b0u
-number: 1234567890
