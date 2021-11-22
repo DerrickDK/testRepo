@@ -1,7 +1,0 @@
-# The secrets below are unreadable without access to one of the sops master key
-myapp1: testAPPV1
-app1:
-    db:
-        user: eve
-        password: c4r1b0u
-number: 1234567890
